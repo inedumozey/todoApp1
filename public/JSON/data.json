@@ -1,0 +1,62 @@
+[
+    {
+        "character": "major",
+        "age": 23,
+        "rank": "fighter",
+        "id": 1
+    },
+    {
+        "character": "minor",
+        "age": 41,
+        "rank": "backup",
+        "id": 2
+    },
+    {
+        "character": "general",
+        "age": 60,
+        "rank": "coach",
+        "id": 3
+    },
+    {
+        "character": "amateur",
+        "age": 16,
+        "rank": "fighter",
+        "id": 4
+    },
+    {
+        "character": "copral",
+        "age": 33,
+        "rank": "fighter",
+        "id": 5
+    },
+    {
+        "character": "major",
+        "age": 23,
+        "rank": "fighter",
+        "id": 6
+    },
+    {
+        "character": "minor",
+        "age": 41,
+        "rank": "backup",
+        "id": 7
+    },
+    {
+        "character": "general",
+        "age": 60,
+        "rank": "coach",
+        "id": 8
+    },
+    {
+        "character": "amateur",
+        "age": 16,
+        "rank": "fighter",
+        "id": 9
+    },
+    {
+        "character": "copral",
+        "age": 33,
+        "rank": "fighter",
+        "id": 10
+    }
+]
