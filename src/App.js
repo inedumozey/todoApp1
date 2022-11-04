@@ -4,13 +4,13 @@ import Todo from './components/todos/TodoWrapper'
 
 
 function App() {
-   
-  return(
+
+  return (
     <div className="App">
-        <Todo />
+      <Todo />
     </div>
   )
-    
+
 }
 
 export default App
